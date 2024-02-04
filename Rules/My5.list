@@ -1,0 +1,6 @@
+# 内容：My5
+# 数量：4条
+USER-AGENT,My5*,PROXY
+HOST,d349g9zuie06uo.cloudfront.net,PROXY
+HOST-SUFFIX,channel5.com,PROXY
+HOST-SUFFIX,my5.tv,PROXY

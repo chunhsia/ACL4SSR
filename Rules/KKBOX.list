@@ -1,0 +1,5 @@
+# 内容：KKBOX
+# 数量：3条
+HOST-SUFFIX,kfs.io,PROXY
+HOST-SUFFIX,kkbox.com,PROXY
+HOST-SUFFIX,kkbox.com.tw,PROXY

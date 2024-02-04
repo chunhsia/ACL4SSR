@@ -1,0 +1,17 @@
+# 内容：BBCiPlayer
+# 数量：15条
+USER-AGENT,BBCiPlayer*,PROXY
+HOST-KEYWORD,bbcfmt,PROXY
+HOST-KEYWORD,uk-live,PROXY
+HOST,aod-dash-uk-live.akamaized.net,PROXY
+HOST,aod-hls-uk-live.akamaized.net,PROXY
+HOST,vod-dash-uk-live.akamaized.net,PROXY
+HOST,vod-thumb-uk-live.akamaized.net,PROXY
+HOST-SUFFIX,bbc.co,PROXY
+HOST-SUFFIX,bbc.co.uk,PROXY
+HOST-SUFFIX,bbc.com,PROXY
+HOST-SUFFIX,bbc.net.uk,PROXY
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,PROXY
+HOST-SUFFIX,bbci.co,PROXY
+HOST-SUFFIX,bbci.co.uk,PROXY
+HOST-SUFFIX,bidi.net.uk,PROXY

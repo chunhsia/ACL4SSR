@@ -1,0 +1,11 @@
+# 内容：币安交易所
+# 数量：9条
+HOST-SUFFIX,binance.com,PROXY
+HOST-SUFFIX,binance.me,PROXY
+HOST-SUFFIX,binance.cloud,PROXY
+HOST-SUFFIX,bntrace.com,PROXY
+HOST-SUFFIX,bnappzh.co,PROXY
+HOST-SUFFIX,bnbzh.ac,PROXY
+HOST-SUFFIX,bnbstatic.com,PROXY
+HOST-SUFFIX,saasexch.com,PROXY
+HOST-SUFFIX,appsflayer.com,PROXY

@@ -1,0 +1,5 @@
+# 内容：BBC
+# 数量：3条
+HOST-KEYWORD,uk-live,PROXY
+HOST-SUFFIX,bbc.co,PROXY
+HOST-SUFFIX,bbc.com,PROXY

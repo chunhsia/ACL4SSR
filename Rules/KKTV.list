@@ -1,0 +1,8 @@
+# 内容：KKTV
+# 数量：6条
+USER-AGENT,KKTV*,PROXY
+USER-AGENT,com.kktv.ios.kktv*,PROXY
+HOST,kktv-theater.kk.stream,PROXY
+HOST,theater-kktv.cdn.hinet.net,PROXY
+HOST-SUFFIX,kktv.com.tw,PROXY
+HOST-SUFFIX,kktv.me,PROXY

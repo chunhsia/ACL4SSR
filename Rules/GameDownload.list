@@ -1,0 +1,22 @@
+# 内容：GameDownload
+# 数量：20条
+HOST,ssl-lvlt.cdn.ea.com,PROXY
+HOST,origin-a.akamaihd.net,PROXY
+HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,PROXY
+HOST,gamedownloads-rockstargames-com.akamaized.net,PROXY
+HOST,gog-cdn-lumen.secure2.footprint.net,PROXY
+HOST,download.cdp.bethesda.net ,PROXY
+HOST,download.hikarifield.co.jp,PROXY
+HOST,client.hikarifield.co.jp,PROXY
+HOST,download.epicgames.com,PROXY
+HOST,download2.epicgames.com,PROXY
+HOST,download3.epicgames.com,PROXY
+HOST,download4.epicgames.com,PROXY
+HOST,epicgames-download1.akamaized.net,PROXY
+HOST,packagespc.xboxlive.com,PROXY
+HOST,xvcf1.xboxlive.com,PROXY
+HOST,xvcf2.xboxlive.com,PROXY
+HOST,assets1.xboxlive.com,PROXY
+HOST,assets2.xboxlive.com ,PROXY
+HOST-SUFFIX,dyn.riotcdn.net,PROXY
+HOST-SUFFIX,cdn.ubi.com,PROXY

@@ -1,0 +1,7 @@
+# 内容：YouTubeMusic
+# 数量：5条
+USER-AGENT,*YouTubeMusic*,PROXY
+USER-AGENT,*com.google.ios.youtubemusic*,PROXY
+USER-AGENT,YouTubeMusic*,PROXY
+USER-AGENT,com.google.ios.youtubemusic*,PROXY
+HOST,music.youtube.com,PROXY

@@ -1,0 +1,6 @@
+# 内容：SoundCloud
+# 数量：4条
+USER-AGENT,SoundCloud*,PROXY
+HOST-SUFFIX,p-cdn.us,PROXY
+HOST-SUFFIX,sndcdn.com,PROXY
+HOST-SUFFIX,soundcloud.com,PROXY

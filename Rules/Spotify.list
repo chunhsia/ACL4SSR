@@ -1,0 +1,11 @@
+# 内容：Spotify
+# 数量：9条
+USER-AGENT,Spotify*,PROXY
+HOST-KEYWORD,-spotify-,PROXY
+HOST-KEYWORD,spotify.com,PROXY
+HOST-SUFFIX,pscdn.co,PROXY
+HOST-SUFFIX,scdn.co,PROXY
+HOST-SUFFIX,spoti.fi,PROXY
+HOST-SUFFIX,spotify.com,PROXY
+HOST-SUFFIX,spotifycdn.com,PROXY
+HOST-SUFFIX,spotifycdn.net,PROXY

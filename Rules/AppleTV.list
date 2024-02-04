@@ -1,0 +1,5 @@
+# 内容：AppleTV
+# 数量：3条
+HOST,np-edge.itunes.apple.com,PROXY
+HOST,play-edge.itunes.apple.com,PROXY
+HOST-SUFFIX,tv.apple.com,PROXY

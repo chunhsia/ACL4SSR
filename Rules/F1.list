@@ -1,0 +1,94 @@
+# F1 🏎
+
+HOST-SUFFIX,f1.com,PROXY
+HOST-SUFFIX,formula1.com,PROXY
+HOST-SUFFIX,f1experiences.com,PROXY
+HOST-SUFFIX,f1authentics.com,PROXY
+HOST-SUFFIX,fiaformula1.com,PROXY
+HOST-SUFFIX,fiaformula2.com,PROXY
+HOST-SUFFIX,fiaformula3.com,PROXY
+HOST-SUFFIX,f1esports.com,PROXY
+HOST-SUFFIX,f1manager.com,PROXY
+HOST-SUFFIX,f1play.com,PROXY
+HOST-SUFFIX,bitmovin.com,PROXY
+HOST,d2n9h2wits23hf.cloudfront.net,PROXY
+HOST,f1prodlive.akamaized.net,PROXY
+
+# 🇧🇭 Bahrain Grand Prix
+HOST-SUFFIX,bahraingp.com,PROXY
+
+# 🇸🇦 Saudi Arabian Grand Prix
+HOST-SUFFIX,saudiarabiangp.com,PROXY
+
+# 🇦🇺 Australian Grand Prix
+HOST-SUFFIX,grandprix.com.au,PROXY
+
+# 🇮🇹 Emilia Romagna Grand Prix
+HOST-SUFFIX,autodromoimola.it,PROXY
+
+# 🇺🇸 Miami Grand Prix
+HOST-SUFFIX,f1miamigp.com,PROXY
+
+# 🇪🇸 Spanish Grand Prix
+HOST-SUFFIX,circuitcat.com,PROXY
+
+# 🇲🇨 Monaco Grand Prix
+HOST-SUFFIX,formula1monaco.com,PROXY
+HOST-SUFFIX,monacograndprixticket.com,PROXY
+
+# 🇦🇿 Azerbaijan Grand Prix
+HOST-SUFFIX,bakucitycircuit.com,PROXY
+
+# 🇨🇦 Canadian Grand Prix
+HOST-SUFFIX,gpcanada.ca,PROXY
+HOST-SUFFIX,montrealgrandprix.com,PROXY
+
+# 🇬🇧 British Grand Prix
+HOST-SUFFIX,silverstone.co.uk,PROXY
+
+# 🇦🇹 Austrian Grand Prix
+HOST-SUFFIX,f1austria.com,PROXY
+
+# 🇫🇷 French Grand Prix
+HOST-SUFFIX,gpfrance.com,PROXY
+
+# 🇭🇺 Hungarian Grand Prix
+HOST-SUFFIX,hungaroring.hu,PROXY
+
+# 🇧🇪 Belgian Grand Prix
+HOST-SUFFIX,spagrandprix.com,PROXY
+
+# 🇳🇱 Dutch Grand Prix
+HOST-SUFFIX,dutchgp.com,PROXY
+
+# 🇮🇹 Italian Grand Prix
+HOST-SUFFIX,monzanet.it,PROXY
+
+# 🇸🇬 Singapore Grand Prix
+HOST-SUFFIX,singaporegp.sg,PROXY
+
+# 🇯🇵 Japanese Grand Prix
+HOST-SUFFIX,suzukacircuit.jp,PROXY
+
+# 🇺🇸 United States Grand Prix
+HOST-SUFFIX,circuitoftheamericas.com,PROXY
+
+# 🇲🇽 Mexican Grand Prix
+HOST-SUFFIX,mexicogp.mx,PROXY
+
+# 🇧🇷 Brazilian Grand Prix
+HOST-SUFFIX,f1saopaulo.com.br,PROXY
+
+# 🇦🇪 Abu Dhabi Grand Prix
+HOST-SUFFIX,yasmarinacircuit.com,PROXY
+
+
+# Not in 2022 Calendar
+# 🇷🇺 Russian Grand Prix (cancelled due to obvious reason)
+HOST-SUFFIX,rosgonki.ru,PROXY
+
+# 🇺🇸 Las Vegas Grand Prix (comming 2023)
+HOST-SUFFIX,f1lasvegasgrandprix.com,PROXY
+
+# 🇨🇳 Chinese Grand Prix (contract agreed to 2025)
+# 

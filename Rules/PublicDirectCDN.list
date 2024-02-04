@@ -1,0 +1,7 @@
+# 内容：Public Direct CDN 公共直连
+# 数量：5条
+HOST-SUFFIX,baomitu.com,DIRECT
+HOST-SUFFIX,bootcss.com,DIRECT
+HOST-SUFFIX,jiasule.com,DIRECT
+HOST-SUFFIX,staticfile.org,DIRECT
+HOST-SUFFIX,upaiyun.com,DIRECT

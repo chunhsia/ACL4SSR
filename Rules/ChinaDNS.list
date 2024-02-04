@@ -1,0 +1,6 @@
+# 内容：China DNS
+# 数量：4条
+HOST-SUFFIX,dns.alidns.com,DIRECT
+HOST-SUFFIX,doh.360.cn,DIRECT
+HOST-SUFFIX,doh.pub,DIRECT
+IP-CIDR,1.12.12.12/32,DIRECT

@@ -1,0 +1,6 @@
+# 内容：Douyu 斗鱼
+# 数量：4条
+HOST-SUFFIX,douyu.com,PROXY
+HOST-SUFFIX,douyu.tv,PROXY
+HOST-SUFFIX,douyuscdn.com,PROXY
+HOST-SUFFIX,douyutv.com,PROXY

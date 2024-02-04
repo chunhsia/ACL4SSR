@@ -1,0 +1,9 @@
+# 内容：MyTVSuper
+# 数量：7条
+USER-AGENT,mytv*,PROXY
+HOST-KEYWORD,nowtv100,PROXY
+HOST-KEYWORD,rthklive,PROXY
+HOST,mytvsuperlimited.hb.omtrdc.net,PROXY
+HOST,mytvsuperlimited.sc.omtrdc.net,PROXY
+HOST-SUFFIX,mytvsuper.com,PROXY
+HOST-SUFFIX,tvb.com,PROXY

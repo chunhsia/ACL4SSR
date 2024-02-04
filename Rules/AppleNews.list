@@ -1,0 +1,5 @@
+# 内容：AppleNews
+# 数量：3条
+USER-AGENT,AppleNews*,PROXY
+USER-AGENT,com.apple.news*,PROXY
+HOST,gspe1-ssl.ls.apple.com,PROXY

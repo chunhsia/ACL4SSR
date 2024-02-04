@@ -1,0 +1,6 @@
+# 内容：Niconico
+# 数量：4条
+USER-AGENT,Niconico*,PROXY
+HOST-SUFFIX,dmc.nico,PROXY
+HOST-SUFFIX,nicovideo.jp,PROXY
+HOST-SUFFIX,nimg.jp,PROXY

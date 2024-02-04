@@ -1,0 +1,6 @@
+# 内容：FoxNow
+# 数量：4条
+USER-AGENT,FOX%20NOW*,PROXY
+HOST-SUFFIX,fox.com,PROXY
+HOST-SUFFIX,foxdcg.com,PROXY
+HOST-SUFFIX,uplynk.com,PROXY

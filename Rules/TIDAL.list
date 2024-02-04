@@ -1,0 +1,6 @@
+# 内容：TIDAL
+# 数量：4条
+USER-AGENT,TIDAL*,PROXY
+HOST-SUFFIX,tidal-cms.s3.amazonaws.com,PROXY
+HOST-SUFFIX,tidal.com,PROXY
+HOST-SUFFIX,tidalhifi.com,PROXY
